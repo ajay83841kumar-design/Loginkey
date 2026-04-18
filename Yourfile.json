@@ -64,5 +64,11 @@
         "key": "12aks",
         "expirydate": "18-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9a78e896ec7554e3",
+        "key": "12ats",
+        "expirydate": "18-05-2026",
+        "Allowoffline": false
     }
 ]
