@@ -82,5 +82,11 @@
         "key": "AK5522",
         "expirydate": "20-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "53401863df21cb62",
+        "key": "AK5544",
+        "expirydate": "23-04-2026",
+        "Allowoffline": false
     }
 ]
