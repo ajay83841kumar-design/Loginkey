@@ -298,5 +298,17 @@
         "key": "RTS364",
         "expirydate": "14-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2535e15c8e77dcb2",
+        "key": "aks365",
+        "expirydate": "15-05-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0a34b44e633ab9c7",
+        "key": "aks366",
+        "expirydate": "15-05-2026",
+        "Allowoffline": false
     }
 ]
