@@ -310,5 +310,11 @@
         "key": "aks366",
         "expirydate": "16-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a1cd2282631ab0eb",
+        "key": "aks367",
+        "expirydate": "16-05-2026",
+        "Allowoffline": false
     }
 ]
