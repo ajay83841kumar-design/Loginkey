@@ -391,7 +391,7 @@
     },
     {
         "device_id": "66e410df2cffd4fa",
-        "key": "aks380",
+        "key": "aks803",
         "expirydate": "04-06-2026",
         "Allowoffline": false
     },
@@ -403,14 +403,14 @@
     },
     {
         "device_id": "1a4c97cf853fb6d4",
-        "key": "aks382",
+        "key": "aks876",
         "expirydate": "21-05-2026",
         "Allowoffline": false
      },
      {
         "device_id": "cd32dc3a2af9875e",
         "key": "aks383",
-        "expirydate": "22-05-2026",
+        "expirydate": "21-06-2026",
         "Allowoffline": false
     }
 ]
