@@ -352,5 +352,11 @@
         "key": "RAH237",
         "expirydate": "27-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cab1834ba3ed7915",
+        "key": "RAH238",
+        "expirydate": "29-05-2026",
+        "Allowoffline": false
     }
 ]
